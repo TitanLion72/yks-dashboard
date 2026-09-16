@@ -1,0 +1,10 @@
+{
+  "name": "YKS Orbit",
+  "short_name": "YKS Orbit",
+  "description": "YKS hazırlığını planla, çalış ve gelişimini gör.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080b18",
+  "theme_color": "#6f82ef",
+  "lang": "tr"
+}
